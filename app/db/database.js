@@ -6,3 +6,4 @@ module.exports = {
 	password: 'Qarrusel1!', // Enter your own password
 	multipleStatements: true
 }
+
